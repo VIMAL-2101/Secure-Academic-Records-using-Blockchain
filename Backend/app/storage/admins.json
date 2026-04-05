@@ -1,0 +1,37 @@
+[
+    {
+        "registration_number": 99001,
+        "name": "Admin_1",
+        "department": "Administration",
+        "password_hash": "$2b$12$yel0DUnCJ2RCN501TfIkG.f7vrsYmdH3rLUWfU6MXlNZB42OD/666",
+        "role": "ADMIN"
+    },
+    {
+        "registration_number": 99002,
+        "name": "Admin_2",
+        "department": "Administration",
+        "password_hash": "$2b$12$rVS4jDbO2XE.TMqheITQ0.cfCTA6kQ4mjEax8OaHyvtL0jpJebLr6",
+        "role": "ADMIN"
+    },
+    {
+        "registration_number": 99003,
+        "name": "Admin_3",
+        "department": "Administration",
+        "password_hash": "$2b$12$NN9PoZF4GMAisY8nzNWGeu9yr/2d659N0Ia0ukF0VG94NoKV70yQ2",
+        "role": "ADMIN"
+    },
+    {
+        "registration_number": 99004,
+        "name": "Admin_4",
+        "department": "Administration",
+        "password_hash": "$2b$12$axk8BN3lJjyoN94NCZT8GeYVTuovoStnGDqYN4CLUXlvStuF/1dkO",
+        "role": "ADMIN"
+    },
+    {
+        "registration_number": 99005,
+        "name": "Admin_5",
+        "department": "Administration",
+        "password_hash": "$2b$12$YfK3va7iQjezYntkRSA2s.0VA8ppRVpSjv3slFl.gNvLSkO7SJcTe",
+        "role": "ADMIN"
+    }
+]

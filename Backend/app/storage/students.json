@@ -1,0 +1,752 @@
+[
+    {
+        "registration_number": 61781922102130,
+        "name": "Sashwat Ayal",
+        "department": "CSE",
+        "year": 4,
+        "password_hash": "$2b$12$TaGop0txEZEa.ghx.sErOOb5YXjDgvGo8iP79sJaWG/N2yQYnuIYy",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 77
+        },
+        "attendance": {
+            "CSE401": 70
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210002,
+        "name": "Vimal Vidhyadharan",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$cghuEVKrddKodyfliPhXB.2aRohhVYH9HIJ3e5fH/7TeEDMsZ7yUm",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 62
+        },
+        "attendance": {
+            "CSE401": 92
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210003,
+        "name": "Student_3",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$HTmoOhK4WJleu3aPBM656Ots5VSnY1Ao30LkBocCVnXKQpb9syham",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 68
+        },
+        "attendance": {
+            "CSE401": 79
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210004,
+        "name": "Student_4",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$HrCCljspgRypYW.RN7uKeeGXvhlTnTNz6C0Q87o5y6Ontjwghouna",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 71
+        },
+        "attendance": {
+            "CSE401": 66
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210005,
+        "name": "Student_5",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$s08pcZEuXsehyYIVyocALundyueQOKouLxzhopjMoNaKtElSGmx66",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 72
+        },
+        "attendance": {
+            "CSE401": 70
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210006,
+        "name": "Student_6",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$8Z95VB/Sa093draaq2tX8upvL.JQ2aIETmq9fsNMQ73SAsG67Oap6",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 74
+        },
+        "attendance": {
+            "CSE401": 77
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210007,
+        "name": "Student_7",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$AkiLDk5LKbsn2GBuBAYePuP3BZVUVkTMdFhWFJ9ucxkvITH/lm/nO",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 68
+        },
+        "attendance": {
+            "CSE401": 75
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210008,
+        "name": "Student_8",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$Uw7h3LZrzoiYgxCQpotjAeO8irTyInODO4S2Lqi8O0x.sTDWtLvtK",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 66
+        },
+        "attendance": {
+            "CSE401": 65
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210009,
+        "name": "Student_9",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$.mwo8K6Qdee7MCa3PeyRHe7CgP6hZRuvHuuK2qceiB4FR.ETdVZty",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 83
+        },
+        "attendance": {
+            "CSE401": 84
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210010,
+        "name": "Student_10",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$t8uepUrupdT8oZ/HvkrYzeZHyvlwXhF4u2IqE99qLkFh1CRvdMsCy",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 78
+        },
+        "attendance": {
+            "CSE401": 70
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210011,
+        "name": "Student_11",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$wroiVS4RnpAG1r0xHlKbTuVrrkAMbOh8WtCd87s6lhXYHAIKBNsLG",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 84
+        },
+        "attendance": {
+            "CSE401": 88
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210012,
+        "name": "Student_12",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$ebadUyTsNcMDFlOn5t7VOOQ7IxVEH9tuKJ15cUGBzDluDgEfgq04S",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 70
+        },
+        "attendance": {
+            "CSE401": 80
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210013,
+        "name": "Student_13",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$dxEv1Gx5DlOxaLASB5OhguOZ/ZO9fHCixCMmXcoR1hhLx3km1TsX.",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 61
+        },
+        "attendance": {
+            "CSE401": 75
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210014,
+        "name": "Student_14",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$IgrB06AK953A3bYQp0SvLucjhzsDzOAAbaDIXXMmHJqUEEI.4VmPu",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 61
+        },
+        "attendance": {
+            "CSE401": 82
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210015,
+        "name": "Student_15",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$hdnqMf2yEJxgvmO70f7BvuqAb2ZYB95Qbjh6z6c0WIBq33A7QSdI6",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 79
+        },
+        "attendance": {
+            "CSE401": 88
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210016,
+        "name": "Student_16",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$mNnAs7yxQ4OcoEHyCgVLQe3GO7VUCzlVrP1wIzoVnqyeK5Rf0Inny",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 67
+        },
+        "attendance": {
+            "CSE401": 89
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210017,
+        "name": "Student_17",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$prWqIpW1.ze2/lELGTmK2ucr6DMDhOp1QMCsMrnFws6zJ04c5gf8O",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 60
+        },
+        "attendance": {
+            "CSE401": 83
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210018,
+        "name": "Student_18",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$pWecaR0SEkWLHkcwEILHCu5l/qYdfyQd3SGfUlhSn7yqP/QmSwKe2",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 81
+        },
+        "attendance": {
+            "CSE401": 74
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210019,
+        "name": "Student_19",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$y60M8uIKzGsZ6ER3ww9EmuFK83UqX4H64UC9IHTC6sZnaV.XCIeSG",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 66
+        },
+        "attendance": {
+            "CSE401": 79
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210020,
+        "name": "Student_20",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$OEB6pmymzVuhMXDQwEx1qO6kgLhHxM65Tq6TY01qK8UlE0t29b9qe",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 71
+        },
+        "attendance": {
+            "CSE401": 77
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210021,
+        "name": "Student_21",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$Pbfso7AaAWK9/Vaopm4Hxefs/ZjZr/IcpMyjyPXZ1Rv8cmAyOtGdS",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 74
+        },
+        "attendance": {
+            "CSE401": 72
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210022,
+        "name": "Student_22",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$e5lgd1LpVVlbA/ZTZiAXq.skogYMsisVVLb1TGT.FfMpSkOC/fiE2",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 61
+        },
+        "attendance": {
+            "CSE401": 85
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210023,
+        "name": "Student_23",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$AwBl41fT9j3j7ZuZm6yoF.fRsJLHZ5lLl2SsCxgCumZFUo5Kvt.JK",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 83
+        },
+        "attendance": {
+            "CSE401": 73
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210024,
+        "name": "Student_24",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$D/LL7xYlkRD6MzPRbkhXaeybUdkzJfKFcLjPCEL7IIRnZlKh0HP/C",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 62
+        },
+        "attendance": {
+            "CSE401": 88
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210025,
+        "name": "Student_25",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$GcFbijk.3PpBvjBcAVXX4egc2FLL99yIe4KggqbBP7oxi9y7tUAKa",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 82
+        },
+        "attendance": {
+            "CSE401": 84
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210026,
+        "name": "Student_26",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$RqGvODKVf3fw2d1BxXWWYevyx.pZIVLrBrOB9JPk2qcOJg22Ez9eK",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 80
+        },
+        "attendance": {
+            "CSE401": 71
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210027,
+        "name": "Student_27",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$92FMklTibQtQw6Rx7uuWT.daMEDUljsH.TQVEMxftlc5f9xesKy.6",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 77
+        },
+        "attendance": {
+            "CSE401": 91
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210028,
+        "name": "Student_28",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$OK5OsCP.R5ontQxxeQC.6.urG3dbleslP4DVBH5mSfdGUCcrd8jEm",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 79
+        },
+        "attendance": {
+            "CSE401": 89
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210029,
+        "name": "Student_29",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$OH25AuAlLQt40PiMNF/kkeNNY9oQm1/39ZAYIDS2Oqk7dzTVxh972",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 62
+        },
+        "attendance": {
+            "CSE401": 81
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210030,
+        "name": "Student_30",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$1QTQk5KkcfCOqYlN2ORi3etdgVHHsyokodz.19ytlhzoYwTQsgJli",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 80
+        },
+        "attendance": {
+            "CSE401": 94
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210031,
+        "name": "Student_31",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$cZddTEoCm1Nr9FAczIV3leyVNwwpCRXCfRncuvURY4VgDFnQvCz0W",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 75
+        },
+        "attendance": {
+            "CSE401": 67
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210032,
+        "name": "Student_32",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$Plbh3uEVUFowQWv5ZglCreNabkuoRYyUS23WgoNBQ/H8FsLmmi8WS",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 80
+        },
+        "attendance": {
+            "CSE401": 71
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210033,
+        "name": "Student_33",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$RUT0OqwwBpDvOO0kySbvOuD4FwgUMrw6vCf62O1jKoGVx9SyRC7ni",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 69
+        },
+        "attendance": {
+            "CSE401": 77
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210034,
+        "name": "Student_34",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$XXXXoynpGjfoNIpYmIiCJeVi6LvVadZqCSR4/5eLNN3h7.LinMUra",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 65
+        },
+        "attendance": {
+            "CSE401": 94
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210035,
+        "name": "Student_35",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$0DiNHP9senhjxdcw7QxLd.l/oVhzFtMWxt5Hk2wkiFC3COiAnFmZu",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 89
+        },
+        "attendance": {
+            "CSE401": 79
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210036,
+        "name": "Student_36",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$OuyhppnUxvP17eiTeiwBVOncNimXdjrZQ8lyJ96JTyl/pzCOnAYRe",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 66
+        },
+        "attendance": {
+            "CSE401": 74
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210037,
+        "name": "Student_37",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$e6Gno1.a8CKK8yWSOzEdqu.j5akcb.87/S0pGMXcbh/m77gGEO./q",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 79
+        },
+        "attendance": {
+            "CSE401": 81
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210038,
+        "name": "Student_38",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$3HC3kOeSDT/CG0SVr7JsSeHB2rFMitu6cYg046nysrUBSe/Dfk2l.",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 76
+        },
+        "attendance": {
+            "CSE401": 77
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210039,
+        "name": "Student_39",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$lVqGmUKAHB8R42u8D7ebiO.SO/T4mPR2TcihKDLjeCwBxpjqlmH3.",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 71
+        },
+        "attendance": {
+            "CSE401": 66
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210040,
+        "name": "Student_40",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$BclKOpbC2wRN2FeOcI24VubBVSD/rwfu1ltxj/VryxtIVIbCylfoO",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 84
+        },
+        "attendance": {
+            "CSE401": 95
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210041,
+        "name": "Student_41",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$WlPJtNsaUpPBsZupgKfKaer4rgZ0nl7qtYA8Awuo4O81pwZ5JzjB2",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 68
+        },
+        "attendance": {
+            "CSE401": 94
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210042,
+        "name": "Student_42",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$TFDGMuxzZ7etqcrIiQ6I9eJivd5.Kp9FEJtCNDTQq56cowO4YRyoi",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 68
+        },
+        "attendance": {
+            "CSE401": 66
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210043,
+        "name": "Student_43",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$eU9NCmcEpoMCeGCrGTlWgOCpc1gokXae96Xz11V/wl1ZZxvelhLEK",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 87
+        },
+        "attendance": {
+            "CSE401": 90
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210044,
+        "name": "Student_44",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$aR5EbuG8wR/qUnWMpJi.IODkkXYmV0.cjp09fm5kePF9oa36yY2CG",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 75
+        },
+        "attendance": {
+            "CSE401": 89
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210045,
+        "name": "Student_45",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$gd8RV.JkAdqyZuaofQh7iOWH5r3hSn6XjaiVilmXJIUnmdbrA42CS",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 77
+        },
+        "attendance": {
+            "CSE401": 90
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210046,
+        "name": "Student_46",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$pVnytKIbQPUoZWyhYU2Fwe6rB2PzSCrpey/pk3zbWwBBrTe8gU8bO",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 63
+        },
+        "attendance": {
+            "CSE401": 87
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210047,
+        "name": "Student_47",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$F4xpIfc44MqwUSvQpJdER.A/F18oe0fmoYIHDm59s1xX4tjjRS0LW",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 78
+        },
+        "attendance": {
+            "CSE401": 80
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210048,
+        "name": "Student_48",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$VOvZn9CSgIkF2LnN7QH.WuKo3DWAE56p.f0k2xIMNM/1ijYVZvTKe",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 86
+        },
+        "attendance": {
+            "CSE401": 81
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210049,
+        "name": "Student_49",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$nYTQefw7e3LgG/GB2xuwQON5wdGE5XB4r0iXy..gG05N2RSVN0A0e",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 67
+        },
+        "attendance": {
+            "CSE401": 87
+        },
+        "result_status": "PENDING"
+    },
+    {
+        "registration_number": 20210050,
+        "name": "Student_50",
+        "department": "CSE",
+        "year": 3,
+        "password_hash": "$2b$12$c5bh59KJNXZ9CyM2DEuKqO29UbNAtfbmWnvxIgSfuVYqwe4lqpfp2",
+        "role": "STUDENT",
+        "marks": {
+            "CSE401": 67
+        },
+        "attendance": {
+            "CSE401": 74
+        },
+        "result_status": "PENDING"
+    }
+]

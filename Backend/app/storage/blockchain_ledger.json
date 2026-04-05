@@ -1,0 +1,44 @@
+[
+    {
+        "tx_hash": "0x904d9958bbb34b7588d48cc66f188c0e",
+        "stored_hash": "833071d7e76ba0d2087924e8a903b19012863c2766deb569106aa6587883dede",
+        "rule_id": "RULE_005",
+        "timestamp": "2026-02-27T04:54:00.126137"
+    },
+    {
+        "tx_hash": "0x43cc0c0db1ce43b8a57e7108340857a1",
+        "stored_hash": "b1899dc6a7abc279eaf156f6078341f752267c68eb09400ed28f358d891bc9fe",
+        "rule_id": "RULE_002",
+        "timestamp": "2026-02-27T07:46:20.598975"
+    },
+    {
+        "tx_hash": "0x09d869516451453591e052c1ab055075",
+        "stored_hash": "198c241cb8998040d632565fc66503f929b041a27b5afe8b05168a7060568fa3",
+        "rule_id": "RULE_001",
+        "timestamp": "2026-02-27T15:19:48.851529"
+    },
+    {
+        "tx_hash": "0x1206774dd1ed4950a88e001d2fa33d37",
+        "stored_hash": "5c205c3c50fbeb6527a1efb3af6d7516d5781f74821819b6fed2c00aa038bfd9",
+        "rule_id": "RULE_002",
+        "timestamp": "2026-02-28T02:07:12.622228"
+    },
+    {
+        "tx_hash": "0x71dcde899d6a4f4288b3380aafa0645c",
+        "stored_hash": "36c9488b43dc6e2067a0a1bf703c5320fb76f5797c7c01d4fc9df01e0c6eca22",
+        "rule_id": "RULE_003",
+        "timestamp": "2026-02-28T05:19:34.991267"
+    },
+    {
+        "tx_hash": "0x65a555adb6e1412ea32d82a6dbe3659f",
+        "stored_hash": "44902dd20e8681337265a3a79a0c32fae2cc0364fb8dab13610046e23a56730c",
+        "rule_id": "RULE_003",
+        "timestamp": "2026-02-28T05:21:50.279420"
+    },
+    {
+        "tx_hash": "0xf1e8f4875b994a7caa87329ad830a58c",
+        "stored_hash": "55bc90713e4d44a7fa5cb52fbcff9a4edf0da05b9c636de2a4ce89b31a2ff836",
+        "rule_id": "RULE_002",
+        "timestamp": "2026-02-28T05:24:10.989806"
+    }
+]

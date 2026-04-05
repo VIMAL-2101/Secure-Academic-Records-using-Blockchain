@@ -1,0 +1,72 @@
+[
+    {
+        "registration_number": 90001,
+        "name": "Teacher_1",
+        "department": "CSE",
+        "password_hash": "$2b$12$3lrlLfYEEUldW5cKwz/EzuF5mDpnhHCrrUs2VzSeaeoPjVtn/zlJi",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90002,
+        "name": "Teacher_2",
+        "department": "CSE",
+        "password_hash": "$2b$12$nH63ZRUCAVpH2fSjRL8aJO2B6ZIzvqOpiUawX4nJn3bpFkz3acxSa",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90003,
+        "name": "Teacher_3",
+        "department": "CSE",
+        "password_hash": "$2b$12$ok9r2QRbd13hhX8fGR0cR.5S9La5792UbEfkfAW6HrBDHBGcVnPCG",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90004,
+        "name": "Teacher_4",
+        "department": "CSE",
+        "password_hash": "$2b$12$9wcb.E7lli75jZtbYPo0herdrnPLlNgHD8fanxAS/laC4AKRezg1q",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90005,
+        "name": "Teacher_5",
+        "department": "CSE",
+        "password_hash": "$2b$12$jT6GVRBcVC6MzL4PWAx.uu0fWCYncRY8kPnAlxiiUG55ZZFqDgxGW",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90006,
+        "name": "Teacher_6",
+        "department": "CSE",
+        "password_hash": "$2b$12$bmMqpCBfdTRlp0hzgJYEK.qj4on1jehAjxVG.CJTYhdUjgObckC62",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90007,
+        "name": "Teacher_7",
+        "department": "CSE",
+        "password_hash": "$2b$12$j6mtLVhwAXEFa0KhMpQXxexCsLWJl7.U8lu.rpdwzFWsAfwp40QaW",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90008,
+        "name": "Teacher_8",
+        "department": "CSE",
+        "password_hash": "$2b$12$LvPVne0rKbea/gIdNtb9jespH.Or3z8s9SPVdnU1ehi0Zj6aaB2Iy",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90009,
+        "name": "Teacher_9",
+        "department": "CSE",
+        "password_hash": "$2b$12$IN6OUVQYp5uANs3PiSOj6OctiVgZuCRbWiOHq5PzSj67YZ9vUTugG",
+        "role": "TEACHER"
+    },
+    {
+        "registration_number": 90010,
+        "name": "Teacher_10",
+        "department": "CSE",
+        "password_hash": "$2b$12$JIMcIqIQHwSfrRknBqGkeeiYVwq67JaxWFE7udKoNMMqmjyoO./HG",
+        "role": "TEACHER"
+    }
+]
