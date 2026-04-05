@@ -110,15 +110,15 @@ This system helps:
 
 ## 👨‍💻 Author
 
-**Vimal**<br>
+**@Vimal**<br>
 Full Stack Developer | Python <br>
-**sashwat**<br>
+**@sashwat**<br>
 Full Stack Developer | Python 
 
 # ⭐ Guide
 
 
-**Mohammed Ibrahim ,**<br>
+**@Mohammed Ibrahim**<br>
 AP/CSE <br>
 SONA COLEGE OF TECHNOLOGY 
 
