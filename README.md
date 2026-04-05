@@ -110,16 +110,16 @@ This system helps:
 
 ## 👨‍💻 Author
 
-**Vimal**
-Full Stack Developer | Python 
-**sashwat**
+**Vimal**<br>
+Full Stack Developer | Python <br>
+**sashwat**<br>
 Full Stack Developer | Python 
 
 # ⭐ Guide
 
 
-**Mohammed Ibrahim ,**
-AP/CSE 
+**Mohammed Ibrahim ,**<br>
+AP/CSE <br>
 SONA COLEGE OF TECHNOLOGY 
 
 ---
